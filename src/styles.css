@@ -8,3 +8,7 @@ html, body {
     min-width: 180px;
     text-align: center;
 }
+
+p {
+  font-weight: bold;  
+}
